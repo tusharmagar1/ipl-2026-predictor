@@ -39,7 +39,7 @@ click through.
 streamlit run app.py
 ```
 
-Or deploy it for free on [Streamlit Community Cloud](https://streamlit.io/cloud) —
+Or deploy it for free on [Streamlit Community Cloud]([https://streamlit.io/cloud](https://tusharmagar1-ipl-2026-predictor-app-fzaytx.streamlit.app/) —
 point it at `app.py` and it's live in a couple of minutes.
 
 > *(Add your deployed Streamlit Cloud link here once it's live, e.g.
